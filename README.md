@@ -15,21 +15,28 @@ An application that enables the pharmacist to record product data (their quantit
 - Animation
 - Provider
 ---
-![login](https://github.com/BlackedHorse/pharmacy_app_with_flutter_and_hive/blob/main/ui-ux/photo/login.JPG)
+![login](https://github.com/user-attachments/assets/29d5385d-aef8-4993-9dff-fdce0b4d4556)
 ---
-![main](https://github.com/BlackedHorse/pharmacy_app_with_flutter_and_hive/blob/main/ui-ux/photo/main.JPG)
+![main](https://github.com/user-attachments/assets/230965bd-f4ef-47c1-94cb-f812f71f3cc4)
 ---
-![chemical](https://github.com/BlackedHorse/pharmacy_app_with_flutter_and_hive/blob/main/ui-ux/photo/chemical.JPG)
+![chemical](https://github.com/user-attachments/assets/adf0ffbc-d7ac-4140-8215-867a535506c6)
 ---
-![addChemical](https://github.com/BlackedHorse/pharmacy_app_with_flutter_and_hive/blob/main/ui-ux/photo/addChemical.JPG)
+![addChemical](https://github.com/user-attachments/assets/e6a48f21-7d80-45b0-984a-e32af149383a)
 ---
-![viewChemical](https://github.com/BlackedHorse/pharmacy_app_with_flutter_and_hive/blob/main/ui-ux/photo/viewChemical.JPG)
+![viewChemical](https://github.com/user-attachments/assets/b7abba6b-2dfb-4ab8-882c-c6a8ed93f806)
 ---
-![product](https://github.com/BlackedHorse/pharmacy_app_with_flutter_and_hive/blob/main/ui-ux/photo/product.JPG)
+![addProduct](https://github.com/user-attachments/assets/256f15e5-95dc-41dd-8321-daf3548346b6)
 ---
-![chemicalInProduct](https://github.com/BlackedHorse/pharmacy_app_with_flutter_and_hive/blob/main/ui-ux/photo/chemicalInProduct.JPG)
-
+![chemicalInProduct](https://github.com/user-attachments/assets/0d6560e0-912a-4c4f-b986-fc04982c63cb)
+---
+![addSuccessfully](https://github.com/user-attachments/assets/5392394f-18ac-46f0-b8fb-83aeb83eed00)
+---
+![date](https://github.com/user-attachments/assets/ab745a15-6715-4226-a4ea-6a0a74f62411)
+---
+![printDetails](https://github.com/user-attachments/assets/eb0dae51-c464-4eca-a432-52664760edeb)
+---
+![logout](https://github.com/user-attachments/assets/beb84f45-cd08-4716-a0ea-b73b283a967e)
 -------------------------------------------------------------------------------------------------
 Video Link :
+https://www.youtube.com/watch?v=nCnA6FqwU9E
 
-[![pharmacy_desktop_app_with_fluuter_and_hive]](https://www.youtube.com/watch?v=72pVL7_-lDE&t=28s)
