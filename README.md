@@ -15,6 +15,12 @@ An application that enables the pharmacist to record product data (their quantit
 - Animation
 - Provider
 ---
+App Video Link :
+
+<a href="https://www.youtube.com/watch?v=nCnA6FqwU9E">
+    <img src="https://github.com/user-attachments/assets/230965bd-f4ef-47c1-94cb-f812f71f3cc4" width="500" height="500">
+</a>
+
 ![login](https://github.com/user-attachments/assets/29d5385d-aef8-4993-9dff-fdce0b4d4556)
 ---
 ![main](https://github.com/user-attachments/assets/230965bd-f4ef-47c1-94cb-f812f71f3cc4)
@@ -37,6 +43,5 @@ An application that enables the pharmacist to record product data (their quantit
 ---
 ![logout](https://github.com/user-attachments/assets/beb84f45-cd08-4716-a0ea-b73b283a967e)
 -------------------------------------------------------------------------------------------------
-Video Link :
-https://www.youtube.com/watch?v=nCnA6FqwU9E
+
 
