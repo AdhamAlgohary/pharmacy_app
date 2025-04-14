@@ -1,4 +1,4 @@
-# pharmacy_desktop_app_with_fluuter_and_hive
+![Desktop - 1](https://github.com/user-attachments/assets/c8ec52e7-2d13-420b-9ca8-34c9c2b30fbf)# pharmacy_desktop_app_with_fluuter_and_hive
 ---
 An application that enables the pharmacist to record product data (their quantities, validity, chemicals included in their composition, and their price based on the amount of chemicals included in their composition) that he manufactures, and enables him to know the details of the chemicals included in the composition of the product (the amount of these substances in grams, the price of a gram One and the price of the quantity of grams included in the composition of the product, the validity of those chemicals), and the program also enables it to modify, delete, display, or search for a product or chemical, for example, let us say that it makes a product for hair dandruff, and this product consists of three compounds (S, Y, P) The product x a kilo of it is 1000 EGP, and so on in the other two components. The role of the program here is to calculate the price per gram for each component in order to deduce the price of the amount of grams included in the product at a time, then calculate the total product. The price of one gram of each component is 1 pound. Let us say that the crust product consists of (100 grams) of Q, (200 grams) of P, and (400 grams) of P. The program concludes here that the price of the product as a whole is 700 pounds, and the price of each component is (X = 200 , p = 200, p = 400).
 
@@ -18,7 +18,7 @@ An application that enables the pharmacist to record product data (their quantit
 App Video Link :
 
 <a href="https://www.youtube.com/watch?v=nCnA6FqwU9E">
-    <img src="https://github.com/user-attachments/assets/230965bd-f4ef-47c1-94cb-f812f71f3cc4" width="500" height="500">
+    <img src="https://github.com/user-attachments/assets/e8212adf-25c7-4f0e-b777-8f941f024962" width="500" height="500">
 </a>
 
 ![login](https://github.com/user-attachments/assets/29d5385d-aef8-4993-9dff-fdce0b4d4556)
